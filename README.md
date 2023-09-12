@@ -4,4 +4,4 @@
 ![Nite's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITEOFF&theme=graywhite&show_icons=true)
 
 # 👻 Tech Stacks
-![C++](https://img.shields.io/badge/with%20a%20logo-white?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
