@@ -4,8 +4,9 @@
 ![Nite's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITEOFF&theme=graywhite&show_icons=true)
 
 # 👻 Tech Stacks
-![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
 ![html](https://img.shields.io/badge/Html-white?style=for-the-badge&logo=html)
 ![css](https://img.shields.io/badge/Css-white?style=for-the-badge&logo=css)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c++)
