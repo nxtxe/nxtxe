@@ -9,6 +9,7 @@
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
 ![react](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![next](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next)
 ![Csharp](https://img.shields.io/badge/Csharp-white?style=for-the-badge&logo=Csharp)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c++)
 ![html](https://img.shields.io/badge/Html-white?style=for-the-badge&logo=html)
