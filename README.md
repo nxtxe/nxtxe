@@ -9,4 +9,4 @@
 ![html](https://img.shields.io/badge/Html-white?style=for-the-badge&logo=html)
 ![css](https://img.shields.io/badge/Css-white?style=for-the-badge&logo=css)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c++)
-![C#](https://img.shields.io/badge/C#-white?style=for-the-badge&logo=C#)
+![Csharp](https://img.shields.io/badge/Csharp-white?style=for-the-badge&logo=Csharp)
