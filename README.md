@@ -6,3 +6,4 @@
 # 👻 Tech Stacks
 ![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
