@@ -5,6 +5,7 @@
 
 # 👻 Tech Stacks
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![mongodb](https://img.shields.io/badge/mongo-white?style=for-the-badge&logo=mongodb)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
 ![Csharp](https://img.shields.io/badge/Csharp-white?style=for-the-badge&logo=Csharp)
@@ -12,4 +13,3 @@
 ![html](https://img.shields.io/badge/Html-white?style=for-the-badge&logo=html)
 ![css](https://img.shields.io/badge/Css-white?style=for-the-badge&logo=css)
 ![java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=java)
-![mongodb](https://img.shields.io/badge/mongo-white?style=for-the-badge&logo=mongodb)
