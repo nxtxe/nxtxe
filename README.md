@@ -1,4 +1,4 @@
-![Nite's GitHub stats](https://github-readme-stats.vercel.app/api?niteoff=anuraghazra&theme=gray&white_icons=true)
+![Nite's GitHub stats](https://github-readme-stats.vercel.app/api?NITEOFF=anuraghazra&theme=graywhite_icons=true)
 
 ![image](https://github.com/NITEOFF/niteoff/blob/main/header%20(2).png?raw=true)
 
