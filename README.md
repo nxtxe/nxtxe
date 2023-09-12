@@ -11,4 +11,4 @@
 ![css](https://img.shields.io/badge/Css-white?style=for-the-badge&logo=css)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c++)
 ![Csharp](https://img.shields.io/badge/Csharp-white?style=for-the-badge&logo=Csharp)
-![java(https://img.shields.io/badge/java-white?style=for-the-badge&logo=java)
+![java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=java)
