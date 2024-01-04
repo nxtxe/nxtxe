@@ -12,7 +12,9 @@
 
 ![Python](https://img.shields.io/badge/Python-%20-3f82b6)
 ![C++](https://img.shields.io/badge/C++-%20-6a98cd)
-![C#](https://img.shields.io/badge/CSharp-%20-a076da)
+![C#](https://img.shields.io/badge/C%23-%20-a076da)
+
+
 <br>
 # Other
 Databases
