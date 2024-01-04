@@ -4,6 +4,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=b8b8b8&style=flat" alt="niteoff" /> </p>
 
-![javascript]([https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript](https://img.shields.io/badge/123-%20-b8b8b8)) 
-
-![Typescript](https://img.shields.io/badge/Typescript-%20-3178c6)
+![TypeScript](https://img.shields.io/badge/TypeScript-%20-3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
