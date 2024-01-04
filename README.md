@@ -1,6 +1,6 @@
 ![image](https://github.com/NITEOFF/niteoff/blob/main/header.png?raw=true)
 
-<h3 align="center">A passionate backend developer from Russia</h3>
+<h3 align="center">A backend developer from Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=b8b8b8&style=flat" alt="niteoff" /> </p>
 
