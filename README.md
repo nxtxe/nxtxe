@@ -11,6 +11,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
 <br>
 # Other
-###- Databases
+Databases
+<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-00f265)
 ![SQL](https://img.shields.io/badge/SQL-%20-e7730f)
+<br>
+<br>
+Design
+<br>
+![Figma](https://img.shields.io/badge/Figma-%20-a356fe)
+![Photoshop](https://img.shields.io/badge/Photoshop-%20-29a9ff)
+![Illustrator](https://img.shields.io/badge/Illustrator-%20-ffac29)
