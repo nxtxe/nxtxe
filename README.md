@@ -1,4 +1,4 @@
-![image](https://github.com/NITEOFF/niteoff/blob/main/header%20(2).png?raw=true)
+![image](https://github.com/NITEOFF/niteoff/blob/main/header.png?raw=true)
 
 <h3 align="center">A passionate backend developer from Russia</h3>
 
