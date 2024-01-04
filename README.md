@@ -14,17 +14,17 @@
 ![C++](https://img.shields.io/badge/C++-%20-6a98cd)
 ![C#](https://img.shields.io/badge/C%23-%20-a076da)
 
-
-<br>
+![HTML](https://img.shields.io/badge/HTML-%20-f26327)
+![CSS](https://img.shields.io/badge/CSS-%20-2aa8e3)
 # Other
 Databases
-<br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-00f265)
 ![SQL](https://img.shields.io/badge/SQL-%20-e7730f)
-<br>
-<br>
+
+
 Design
-<br>
+
 ![Figma](https://img.shields.io/badge/Figma-%20-a356fe)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%20-29a9ff)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%20-ffac29)
