@@ -12,4 +12,4 @@
 <br>
 # Other
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-00f265)
-![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
+![SQL](https://img.shields.io/badge/SQL-%20-e7730f)
