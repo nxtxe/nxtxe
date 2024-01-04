@@ -10,5 +10,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20-3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
 <br>
+# Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20-3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
