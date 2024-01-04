@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=000000&style=flat" alt="niteoff" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=b8b8b8&style=flat" alt="niteoff" /> </p>
 
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
