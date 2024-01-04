@@ -9,6 +9,10 @@
 # Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20-3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
+
+![Python](https://img.shields.io/badge/Python-%20-3f82b6)
+![C++](https://img.shields.io/badge/C++-%20-6a98cd)
+![C#](https://img.shields.io/badge/CSharp-%20-a076da)
 <br>
 # Other
 Databases
