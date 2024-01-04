@@ -11,5 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
 <br>
 # Other
+###- Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-00f265)
 ![SQL](https://img.shields.io/badge/SQL-%20-e7730f)
