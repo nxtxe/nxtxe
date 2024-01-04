@@ -6,3 +6,4 @@
 
 ![javascript]([https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript](https://img.shields.io/badge/123-%20-b8b8b8)) 
 
+![Typescript](https://img.shields.io/badge/Typescript-%20-3178c6)
