@@ -11,5 +11,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
 <br>
 # Other
-![TypeScript](https://img.shields.io/badge/TypeScript-%20-3178c6)
+![MongoDB](https://img.shields.io/badge/MongoDB-%20-00f265)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-f7df1d)
