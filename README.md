@@ -2,7 +2,7 @@
 
 ![image](https://github.com/NITEOFF/niteoff/blob/main/header.png?raw=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=100&size=40&pause=1000&color=FFFFFF&background=515151&center=true&vCenter=true&random=true&width=1000&height=100&lines=Harukomi+%D0%BF%D0%BE%D0%B4+%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%BC)](https://t.me/nitev01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=FFFFFF&background=515151&center=true&vCenter=true&random=true&width=1000&height=100&lines=Hello+World!)]((https://t.me/nxtxe))
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=b8b8b8" alt="niteoff" /> </p>
 
