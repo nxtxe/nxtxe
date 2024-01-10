@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=FFFFFF&background=515151&center=true&vCenter=true&random=true&width=1000&height=100&lines=Hello+World!)]((https://t.me/nxtxe))
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=b8b8b8" alt="niteoff" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whymind&label=Profile%20views&color=b8b8b8" alt="whymind" /> </p>
 
 # Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20-3178c6)
