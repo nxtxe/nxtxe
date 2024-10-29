@@ -1,6 +1,6 @@
 <h3 align="center">A backend developer.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=FFFFFF&background=515151&center=true&vCenter=true&random=true&width=1000&height=100&lines=Hello+World!)]((https://t.me/nxtxe))
+ <!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=FFFFFF&background=515151&center=true&vCenter=true&random=true&width=1000&height=100&lines=Return+0)]((https://t.me/nxtxe))--->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=niteoff&label=Profile%20views&color=b8b8b8" alt="niteoff" /> </p>
 
