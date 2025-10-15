@@ -17,7 +17,6 @@
 ![CSS](https://img.shields.io/badge/CSS-%20-2aa8e3)
 
 ![React JS](https://img.shields.io/badge/React%20JS-%20-05d3f9)
-![Next JS](https://img.shields.io/badge/Next%20JS-%20-3b3b3b)
 # Other
 Databases
 
@@ -29,4 +28,4 @@ Design
 
 ![Figma](https://img.shields.io/badge/Figma-%20-a356fe)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%20-29a9ff)
-![Illustrator](https://img.shields.io/badge/Illustrator-%20-ffac29)
+
